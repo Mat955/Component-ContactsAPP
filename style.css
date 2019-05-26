@@ -1,0 +1,115 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f0f8ff;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+}
+
+.contactItem {
+    margin: 40px;
+    background-color: #efefef;
+
+}
+
+.contactLabel {
+    font-size: 26px;
+}
+
+.contactEmail {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.contactEmail:hover {
+    background-color: #F1D770;
+    padding: 1px;
+}
+
+.btn {
+    cursor: pointer;
+}
+
+.contactsList {
+    /* border: 1px solid black; */
+    width: 700px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.contactImage {
+    margin-top: 20px;
+}
+
+/* * {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f0f8ff;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+}
+
+.app {
+    text-align: center;
+    width: 70%;
+    max-width: 500px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+
+.contactForm {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.inputFields1 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.inputFields1 button {
+    background-color: rgb(160, 240, 236);
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+@media(max-width: 510px) {
+
+    .inputFields1 button {
+        margin: 10px;
+    }
+}
+
+.contactsList {
+    list-style-type: none;
+    padding-inline-start: 0;
+}
+
+.contactItem {
+    background: rgb(163, 255, 255);
+    border-radius: 5px;
+    padding: 15px;
+    display: block;
+    margin: 5px 0;
+
+}
+
+.contactImage {
+    width: 50px;
+    height: auto;
+} */
