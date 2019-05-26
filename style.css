@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f0f8ff;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+}
+
+.contactItem {
+    margin: 40px;
+    background-color: #efefef;
+
+}
+
+.contactLabel {
+    font-size: 26px;
+}
+
+.contactEmail {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.contactEmail:hover {
+    background-color: #F1D770;
+    padding: 1px;
+}
+
+.btn {
+    cursor: pointer;
+}
+
+.contactsList {
+    /* border: 1px solid black; */
+    width: 700px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.contactImage {
+    margin-top: 20px;
+}
